@@ -14,7 +14,7 @@ from typing import Dict, List, Optional
 from telegram import Update, Document
 from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, filters
 
-TOKEN = "PUT_YOUR_TOKEN_HERE"  # ضع توكنك هنا
+TOKEN = "8519892072:AAGIvPmM-oFYCTfZtWOYFis87Mjqt2e2l0s"  # ضع توكنك هنا
 
 START_TEXT = """\
 ✅ بوت تحويل النصوص ودمج/تقسيم ملفات TXT (سهل)
